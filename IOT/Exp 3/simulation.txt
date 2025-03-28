@@ -1,0 +1,4 @@
+temperature
+https://wokwi.com/projects/426633788110867457
+ldr
+https://wokwi.com/projects/426635040817465345
